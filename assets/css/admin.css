@@ -1,0 +1,11 @@
+label.featured{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+th#featured{
+    width: auto !important;
+}
+
+.txt_url {
+    margin-bottom: 10px;
+}
